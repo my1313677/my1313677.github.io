@@ -320,7 +320,7 @@ webpackJsonp([1], {
                 },
                 mutations: {
                     SET_CONFIGURATION: function (t, e) {
-                        t.githubUsername = e.githubUsername || "GitHub-Laziji",
+                        t.githubUsername = e.githubUsername || "葉",
                             t.blogTitle = e.blogTitle || t.githubUsername,
                             t.blogDescribe = e.blogDescribe || "欢迎来到" + t.githubUsername + "的个人博客。",
                             t.htmlTitle = e.htmlTitle || t.githubUsername + "的博客",
@@ -755,7 +755,7 @@ webpackJsonp([1], {
                             span: 10
                         }
                     },
-                        [i("div", [t._v("\n\t\t\t\t© 2018 GitHub-my1313677  \n\t\t\t\t"), i("a", {
+                        [i("div", [t._v("\n\t\t\t\t© 2018   \n\t\t\t\t"), i("a", {
                             attrs: {
                                 href: "https://github.com/my1313677",
                                 target: "_blank"
@@ -982,10 +982,19 @@ webpackJsonp([1], {
                                                 [t._v("GitHub主页")]), t._v(" "), t.mini ? t._e() : i("a", {
                                                     staticClass: "btn",
                                                     attrs: {
-                                                        href: "https://github.com/my1313677",
+                                                        href: "https://github.com/my1313677/vblog",
                                                         target: "_blank"
                                                     }
                                                 },
+                                                    [t._v("博客源码")])], 2), t._v(" "), i("div", {
+                                                        staticStyle: {
+                                                            position: "relative",
+                                                            "z-index": "2",
+                                                            margin: "auto",
+                                                            "margin-top": "-30px",
+                                                            width: "64rem"
+                                                        }
+                                                    },
                                                         [i("el-card", {
                                                             attrs: {
                                                                 shadow: "never",
