@@ -4972,7 +4972,7 @@ webpackJsonp([1], {
                                                             attrs: {
                                                                 title: "　github.com/GitHub-Laziji",
                                                                 icon: "sign",
-                                                                url: "https://github.com/GitHub-Laziji",
+                                                                url: "https://github.com/my1313677",
                                                                 "is-link": ""
                                                             }
                                                         }), t._v(" "), i("van-cell", {
@@ -4980,7 +4980,7 @@ webpackJsonp([1], {
                                                             attrs: {
                                                                 title: "　项目源码",
                                                                 icon: "logistics",
-                                                                url: "https://github.com/GitHub-Laziji/VBlog",
+                                                                url: "https://github.com/my1313677/VBlog",
                                                                 "is-link": ""
                                                             }
                                                         }), t._v(" "), i("van-cell", {
